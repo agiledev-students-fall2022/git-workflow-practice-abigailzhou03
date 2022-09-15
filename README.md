@@ -4,3 +4,6 @@ Lucy Guo landed the 64th spot on Forbe's *America's Richest Self-Made Women* lis
 
 ## The Interview Content
 In this video, she talks about dropping out of Carnegie Mellon and her experience with the Peter Thiel Fellowship. She talks about the hardships of entrepreneurship and the type of mindset she expects from the peers she chooses to work with. She explains her approach to starting companies while explaining her career and how she left a high-paying job at Quora to jump from startup to startup.
+
+## Comment by Laura Mazoni
+This is an interesting article because it reenforces the idea that you don't need a degree to persue a career in tech. Although having a Computer Science degree contributes for building a "safety net" of jobs, it is not essential for success in the tech industry. Having an idea and knowing how to execute it well is more important than spending four years in university, in most cases.
